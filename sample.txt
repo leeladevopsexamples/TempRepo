@@ -1,2 +1,3 @@
 Hi
-Welcome to Git/GitHub sessions
+Welcome to Git/GitHub sessions.
+Modified changes in local git.
